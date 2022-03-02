@@ -6,6 +6,13 @@
     margin-right: auto;
 }
 
+body{
+    background-image: linear-gradient( rgb(205, 216, 253), rgb(69, 75, 95));
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Smooch Sans';
+}
+
 #tablet{
     height: 400px;
     width: 25%;
