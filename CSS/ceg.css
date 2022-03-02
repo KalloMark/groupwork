@@ -1,4 +1,5 @@
 #fejleckep{
+
     width: 75%;
     height: 200px;
     display: block;
@@ -14,4 +15,10 @@
 #telefon{
     height: 400px;
     width: 25%;
+}
+
+nav{
+    
+    margin-left: auto;
+    margin-right: auto;
 }
