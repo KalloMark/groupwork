@@ -7,6 +7,13 @@
     margin-right: auto;
 }
 
+body{
+    background-image: linear-gradient( rgb(205, 216, 253), rgb(69, 75, 95));
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: 'Smooch Sans';
+}
+
 #tablet{
     height: 400px;
     width: 25%;
@@ -16,9 +23,12 @@
     height: 400px;
     width: 25%;
 }
+<<<<<<< HEAD
 
 nav{
     
     margin-left: auto;
     margin-right: auto;
 }
+=======
+>>>>>>> a1546b7e66e3fc2704ee3b2046e240df4f6b2e5c
