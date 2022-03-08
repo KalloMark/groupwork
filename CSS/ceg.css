@@ -21,12 +21,12 @@ body{
 }
 
 #tablet{
-    height: 400px;
+    height: 35vh;
     width: 25%;
 }
 
 #telefon{
-    height: 400px;
+    height: 40vh;
     width: 25%;
 }
 
