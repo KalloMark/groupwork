@@ -59,33 +59,14 @@ p{
     line-height: 30px;
     text-align: justify;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .logo{
     height: 15vh;
     width: 10%;
+}
+
+.cegalapitok{
+    border-radius: 10px;
+    height: 30vh;
+    width: 20%;
+    float: right;
 }
