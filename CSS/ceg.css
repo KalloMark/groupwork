@@ -46,7 +46,7 @@ a{
 
 h1{
     text-align: center;
-    color: white;
+    
 }
 
 main{
@@ -55,37 +55,17 @@ main{
 }
 p{
     font-size: 20px;
-    color: white;
+    
     line-height: 30px;
     text-align: justify;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .logo{
     height: 15vh;
     width: 10%;
+}
+
+.forrasok{
+    color: white;
+    
 }
