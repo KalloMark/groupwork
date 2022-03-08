@@ -15,7 +15,7 @@
 body{
     background-image: linear-gradient( rgb(205, 216, 253), rgb(69, 75, 95));
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 150vh;
     font-family: 'CustomFont'
 }
 
@@ -27,4 +27,35 @@ body{
 #telefon{
     height: 400px;
     width: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.logo{
+    height: 15vh;
+    width: 10%;
 }
