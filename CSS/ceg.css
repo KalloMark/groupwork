@@ -13,7 +13,7 @@
 }
 
 body{
-    background-image: linear-gradient( rgb(205, 216, 253), rgb(69, 75, 95));
+    background-color: rgb(167, 158, 167);
     height: 100vh;
     background-repeat: no-repeat;
     height: 134vh;
@@ -71,3 +71,16 @@ p{
     width: 20%;
     float: right
 }
+
+@media screen and (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
